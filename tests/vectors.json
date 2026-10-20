@@ -1,0 +1,92 @@
+[
+ {
+  "ip": "127.0.0.1",
+  "port": 2000,
+  "flags": 0,
+  "serverdata": "QkgoCwqg5LnT+PdWGE0hDhuk9L/J/fRLC0gqEBO9+6awqoUVchVXS3zmiOGvuYgOfhdZS2T4kv29pZoIdhNPUQ4="
+ },
+ {
+  "ip": "1.1.1.1",
+  "port": 80,
+  "flags": 0,
+  "serverdata": "QhJyAQCl4eiCqaYHSRxwX0rzo+mFsLkPTxR2VlX78q+/pYsbeR5AXHfthfairpsdcRhWRG/zh+iyqpUHYw=="
+ },
+ {
+  "ip": "10.0.0.1",
+  "port": 5,
+  "flags": 80,
+  "serverdata": "Qh5+Xl+m4rjS+fZXGUwgDxq87LnV//ZSEkkrCwim/6Lk/tpKLkkXCyC60qH1+dJUJk8fDT2g0b7k/cJQNA=="
+ },
+ {
+  "ip": "11.11.11.11",
+  "port": 123,
+  "flags": 80,
+  "serverdata": "QkoqCguk4LjS+fZXGUwgDxq87KbQ5exMDEwuFRah56D4+sdPM0sVESa8zrvv49JOPFQEFyak0L7k/cNLNVIPC068"
+ },
+ {
+  "ip": "111.11.11.11",
+  "port": 65535,
+  "flags": 0,
+  "serverdata": "QkoqDQz0sOaMp6gJRxJ+UUT9reeRu6gXVxd1VVbnoeW9p4UVdhFWSmf9j+auuJMPZxRFV3jkkf6lvZwOcRROUBD4/eba"
+ },
+ {
+  "ip": "111.111.11.11",
+  "port": 8080,
+  "flags": 80,
+  "serverdata": "QkkpDw6k4L7U//BRH0omCRyl9b/J/O9QEE8tFhWp76D44sFRMFcbByuxw6ri9N9DK1gJGzSo3bL27tBCPVkfAUStrbaK"
+ },
+ {
+  "ip": "111.111.111.11",
+  "port": 2000,
+  "flags": 80,
+  "serverdata": "Qht7CgvxtemDqKcGSB1xXkvyouieq7gHRwdlXl3ztfKqqpdLN0wSHSqu3LXh69pcNEcNHi+t2bft69RHOUIfAEWvrrWT7Q=="
+ },
+ {
+  "ip": "255.255.255.255",
+  "port": 443,
+  "flags": 32,
+  "serverdata": "Qhx8DA33s+iCqaYHSRxwXEn0pO2bqrkFRQFjW1jpr+y0t4oBfQBeCj20xq/78cBGLl0XADGzx6338c5ZJ1wAG1+trbKU6g=="
+ },
+ {
+  "ip": "203.0.113.24",
+  "port": 2000,
+  "flags": 80,
+  "serverdata": "WAhyUknnubDA6/5fC14oBBGq+rHH8uFcBkU8HAWx7Kvp6ZsRfgMUEjy8zr31+dJUPFUFFzikzqH6+NlRK1QKDku5o6I="
+ },
+ {
+  "ip": "203.0.113.24",
+  "port": 2001,
+  "flags": 80,
+  "serverdata": "WAhyUkngvuGRuq8OWg95VUD7q+CWo7ANVxRtTVTgvfu5uZgScg8fGTa2xLf/89heNl8PHTKuxKvw8tNbIV4ABEGzqag="
+ },
+ {
+  "ip": "198.51.100.7",
+  "port": 9000,
+  "flags": 128,
+  "serverdata": "WFctCRK75bPD6P1cCF0rBBGh8b/J4/BOFEszEwq+4qXm5sFLfAEXEW/vne6mqoEHbwZfTWL+i+S/vYIKcwxZXRjq8PE="
+ },
+ {
+  "ip": "192.0.2.10",
+  "port": 53,
+  "flags": 0,
+  "serverdata": "WAR+WEO94++ftKEAVAFtQlftvfaAtqUaQBtjWkP3q+yqqo4EN0oHATa22Kvl6dheJUwCED+506b8/sRMKFcRFQ=="
+ },
+ {
+  "ip": "8.8.8.8",
+  "port": 53,
+  "flags": 0,
+  "serverdata": "QhNzWVj9ubTe9fpbFUAsCh+v/7zQ7OVeHkUnBwSq9ajs9tVFJ0AeAimz26j88MVDL0YIGjGt2rXv98haPg=="
+ },
+ {
+  "ip": "1.2.3.4",
+  "port": 2000,
+  "flags": 1,
+  "serverdata": "QhpgS0zkoavH7OdGDVg0Gw605Kza6vlFH14mBh+x96ry9MlCPkUbGTy50KG8t5QUfBFHVWTijPm9v54WdglPURT8/OfBpecJARA/VRr+9uHJ"
+ },
+ {
+  "ip": "2.3.4.5",
+  "port": 20000,
+  "flags": 81,
+  "serverdata": "QkgyFhHvqqbK4epLAFU5FQC766TS4/BMFlcvFQy4/rjg4t9SLlULCT7ohfS4vJBFMUIWAjOvwbT08tdbP0QCBkOrq7CW6KtfVV53G1K3uquZ7Q=="
+ }
+]

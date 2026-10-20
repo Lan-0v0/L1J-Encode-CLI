@@ -1,0 +1,6 @@
+# 第三方二进制不入库
+Encode.exe
+Encode软件本体/
+*.bak
+__pycache__/
+*.pyc
